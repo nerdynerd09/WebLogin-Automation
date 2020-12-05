@@ -15,3 +15,7 @@ You can download zip file
 3. python main.py
 ```
 **The program starts to execute and ask you to register yourself if you are using it for the first time.**
+
+# Help
+
+If you face any problem **Contact -** [Instagram](https://www.instagram.com/hackersarena0/)
