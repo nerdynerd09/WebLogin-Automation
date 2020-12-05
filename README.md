@@ -5,6 +5,12 @@
 - So if you are a student of UPES Dehradun, India then this script is for you.
 ---
 # Usage
+Install ChromeDriver from [WebDriver](https://chromedriver.chromium.org/downloads).
+Make sure the Version of ChromeDriver you are installing is the same as the version of Chrome you are using.
+
+- Copy the downlaoded **.exe** file and make a folder in **:C** drive with name as **WebDriver** and paste the **.exe** file there.  
+
+**_Now,_**
 ```
 1. git clone https://github.com/nerdynerd09/WebLogin-Automation.git
 ```
