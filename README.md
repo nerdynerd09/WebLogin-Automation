@@ -6,7 +6,8 @@
 ---
 # Usage
 Install ChromeDriver from [WebDriver](https://chromedriver.chromium.org/downloads).
-Make sure the Version of ChromeDriver you are installing is the same as the version of Chrome you are using.
+Make sure the Version of ChromeDriver you are installing is the **same as the version** of Chrome you are using.
+![](ss.png)
 
 - Copy the downlaoded **.exe** file and make a folder in **:C** drive with name as **WebDriver** and paste the **.exe** file there.  
 
