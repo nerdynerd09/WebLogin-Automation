@@ -12,6 +12,8 @@ Make sure the Version of ChromeDriver you are installing is the **same as the ve
 - Copy the downlaoded **.exe** file and make a folder in **:C** drive with name as **WebDriver** and paste the **.exe** file there.  
 
 **_Now,_**
+You can download **main.exe** file directly and run it. Windows will give warnings but ignore them.
+  **OR**
 ```
 1. git clone https://github.com/nerdynerd09/WebLogin-Automation.git
 ```
