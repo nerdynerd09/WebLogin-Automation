@@ -1,9 +1,8 @@
 # WebLogin-Automation
----
 # About
 - This is a python script made using selenium. It helps me to automate my login into my college's student portal.
 - So if you are a student of UPES Dehradun, India then this script is for you.
----
+
 # Usage
 Install ChromeDriver from [WebDriver](https://chromedriver.chromium.org/downloads).
 Make sure the Version of ChromeDriver you are installing is the **same as the version** of Chrome you are using.
